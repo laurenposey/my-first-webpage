@@ -2,7 +2,7 @@
 
 #### _The very first webpage I made, May 23, 2016_
 
-#### By _**Lauren Posey and Terri Bradley**_
+#### By _**Lauren Valkyrie and Terri Bradley**_
 
 ## Description
 
@@ -18,10 +18,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## Known Bugs
 
 _Pictures are all different sizes._
-
-## Support and contact details
-
-_If you run into any problems please contact me via email at mrslaurenposey@gmail.com_
 
 ## Technologies Used
 
